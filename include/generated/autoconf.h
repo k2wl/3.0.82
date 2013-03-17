@@ -1,6 +1,6 @@
 /*
  * Automatically generated C config: don't edit
- * Linux/arm 3.0.82 Kernel Configuration
+ * Linux/arm 3.0.83 Kernel Configuration
  */
 #define CONFIG_RING_BUFFER 1
 #define CONFIG_NF_CONNTRACK_H323 1
@@ -111,6 +111,7 @@
 #define CONFIG_IP6_NF_TARGET_LOG 1
 #define CONFIG_BCM_RFKILL 1
 #define CONFIG_OF_I2C 1
+#define CONFIG_DYNAMIC_FSYNC 1
 #define CONFIG_BCM_VC_HNFO 1
 #define CONFIG_IP_NF_ARPTABLES 1
 #define CONFIG_HID_CHERRY 1
