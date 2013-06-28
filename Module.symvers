@@ -3503,6 +3503,7 @@
 0xc22a3091	vm_unmap_aliases	vmlinux	EXPORT_SYMBOL_GPL
 0x77b986c2	gnet_stats_finish_copy	vmlinux	EXPORT_SYMBOL
 0xf9bdae67	scsi_get_device_flags_keyed	vmlinux	EXPORT_SYMBOL
+0xd07e41dc	erandom_get_random_bytes	vmlinux	EXPORT_SYMBOL
 0x855e6d10	blk_fetch_request	vmlinux	EXPORT_SYMBOL
 0x8aac1c6c	free_inode_nonrcu	vmlinux	EXPORT_SYMBOL
 0xda636ca5	dma_pool_create	vmlinux	EXPORT_SYMBOL
