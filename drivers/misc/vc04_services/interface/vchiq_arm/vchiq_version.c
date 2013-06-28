@@ -2,7 +2,7 @@
 #include <linux/broadcom/vc_debug_sym.h>
 
 VC_DEBUG_DECLARE_STRING_VAR( vchiq_build_hostname, "Android-ThinkPad-T400" );
-VC_DEBUG_DECLARE_STRING_VAR( vchiq_build_version, "c423c313c94546b3021637b1198c6c32dd750c71 (tainted)" );
+VC_DEBUG_DECLARE_STRING_VAR( vchiq_build_version, "1cd35ed0a99d63e951858815189137dfec57b45a (tainted)" );
 VC_DEBUG_DECLARE_STRING_VAR( vchiq_build_time,    __TIME__ );
 VC_DEBUG_DECLARE_STRING_VAR( vchiq_build_date,    __DATE__ );
 
